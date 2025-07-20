@@ -85,7 +85,7 @@ ZomatoRush/
 -> requirements.txt
 -> README.md
 -> visuals/
-  └── delivery_insights.png    
+   delivery_insights.png    
  -> .gitignore
  
 ## Tashu Singla
