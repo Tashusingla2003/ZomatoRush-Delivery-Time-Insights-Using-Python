@@ -87,5 +87,10 @@ ZomatoRush/
 -> visuals/
   └── delivery_insights.png    
  -> .gitignore
-
+ 
+## Tashu Singla
+📧 Email: tashusingla03@gmail.com
+🔗 GitHub: @Tashusingla2003
+🔗 LinkedIn: https://www.linkedin.com/in/tashuqy-singla
+📍 Patiala, India
 
